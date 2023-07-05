@@ -1,8 +1,8 @@
 # Deploy a high-availability web app using CloudFormation
 
-As your final project, you'll be faced with a real scenario
+In this project, you'll be faced with a real scenario
 
-Creating this project will give you the hands-on experience you need to confidently talk about infrastructure as code. We have chosen a realistic scenario where you will deploy a dummy application (a sample JavaScript or HTML file) to the Apache Web Server running on an EC2 instance
+Completing this project will give you the hands-on experience you need to confidently talk about infrastructure as code. We have chosen a realistic scenario where you will deploy a dummy application (a sample JavaScript or HTML file) to the Apache Web Server running on an EC2 instance
 
 There will be two parts to this project:
 
@@ -12,7 +12,7 @@ There will be two parts to this project:
 
 ## Starter Code
 
-You will find starter code for the project in this [GitHub repository](https://github.com/udacity/nd9991-c2-Infrastructure-as-Code-v1). The same repo has the resources used in the lesson demos/exercises for a quick reference
+You will find starter code for the project in this [GitHub repository](https://github.com/udacity/nd9991-c2-Infrastructure-as-Code-v1).
 
 ## Scenario
 
@@ -24,7 +24,7 @@ You have been tasked with provisioning the required infrastructure and deploying
 
 This needs to be automated so that the infrastructure can be discarded as soon as the testing team finishes their tests and gathers their results
 
-_Optional_ - To add more challenge to the project, once the project is completed, you can try deploying sample website files located in a public S3 Bucket to the Apache Web Server running on an EC2 instance. Though, it is not the part of the project rubric
+_Optional_ - To add more challenge to the project, once the project is completed, you can try deploying sample website files located in a public S3 Bucket to the Apache Web Server running on an EC2 instance.
 
 ## Instructions
 
